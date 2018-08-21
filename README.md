@@ -1,0 +1,1 @@
+khi ta chay file html xe hien thi 1 promt khi ta nhap account neu hop hien thi "ten hop le"  ko hop le xe hien thi "ten khong hop le"
